@@ -52,7 +52,7 @@ Mi mayor motivación es aprender continuamente y enfrentar desafíos que me perm
 ## 📫 Contáctame
 - **Teléfono**: (+829) 925-9992  
 - **Correo Electrónico**: [elainyvilorio@icloud.com](mailto:elainyvilorio@icloud.com)  
-- **Portafolio Web**: [Ver mi trabajo](https://elainyvilorio.github.io/portfolio)  
+- **Portafolio Web**: [Ver mi trabajo](https://elainy30.github.io/portafolio/)  
 - **GitHub**: [github.com/ElainyVilorio](https://github.com/ElainyVilorio)  
 - **LinkedIn**: [linkedin.com/in/elainyvilorio](https://linkedin.com/in/elainyvilorio)
 
